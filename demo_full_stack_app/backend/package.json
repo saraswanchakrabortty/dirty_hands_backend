@@ -1,0 +1,15 @@
+{
+  "name": "demo_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "Saraswan CHakrabortty",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
